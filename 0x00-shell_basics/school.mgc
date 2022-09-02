@@ -1,3 +1,4 @@
 0 string SCHOOL School data
 !:mine school
+then exit and type
 file -C -m school.mgc
