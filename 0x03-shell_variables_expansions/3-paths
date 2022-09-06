@@ -1,2 +1,2 @@
 #!/bin/bash
-echo /usr/local/sbin:/user/local/bin:/user/sbin:/user/bin:/sbin:/bin |tr ':' '\n' | wc -1
+echo /usr/local/sbin:/user/local/bin:/user/sbin:/user/bin:/sbin:/bin |tr ':' '\n' | wc -l
